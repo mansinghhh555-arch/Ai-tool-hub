@@ -1,0 +1,6 @@
+{
+  "appId": "com.aitoolshub.app",
+  "appName": "AI Tools Hub",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
