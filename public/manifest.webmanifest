@@ -1,0 +1,11 @@
+{
+  "id": "/",
+  "name": "AI Tools Hub",
+  "short_name": "AI Tools Hub",
+  "description": "Your workspace for smarter creativity and productivity.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#090d18",
+  "theme_color": "#090d18"
+}
